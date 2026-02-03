@@ -5,3 +5,16 @@
 - توجه
 - Multi-Head Attention
 - توجه چند-سر
+- self-attention
+- خودتوجهی
+- positional encoding
+- رمزگذاری موقعیتی
+- Encoder–decoder
+- رمزگذار-رمزگشا
+- Embedding
+- تعبیه‌سازی
+- Feedforward Neural Network
+- شبکه عصبی پیشخور
+- convolutional neural network
+- شبکه‌های عصبی پیچشی یا همگشتی
+- 
