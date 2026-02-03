@@ -3,3 +3,5 @@
 - ترنسفورمر یا مُبَدِّل
 - Attention
 - توجه
+- Multi-Head Attention
+- توجه چند-سر
