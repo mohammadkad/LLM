@@ -6,6 +6,13 @@
   - http://localhost:20128/dashboard
     - Add providers: Anthropic Compatible or OpenAI Compatible
     - Add Connection
+    - use : http://localhost:20128/v1 + API Keys
+
+- https://omniroute.online
+  - npm install -g omniroute
+  - omniroute
+  - curl localhost:20128/v1/models
+
 - deepseek harness
   - npx @deepseek-ai/dsh web
   - http://127.0.0.1:3080
