@@ -10,4 +10,5 @@
   - http://127.0.0.1:3080
 - avalai.ir
   - https://api.avalai.ir/v1
+- https://opencode.ai
 - 
