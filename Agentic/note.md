@@ -6,6 +6,8 @@
   - http://127.0.0.1:3080
 
 - opencode: https://opencode.ai
+- Claude Code: https://github.com/anthropics/claude-code
+  - irm https://claude.ai/install.ps1 | iex
 
 ### Routers:
 - openrouter.ai
