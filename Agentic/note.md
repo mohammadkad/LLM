@@ -4,6 +4,7 @@
   - npm install -g 9router
   - 9router
   - http://localhost:20128/dashboard
+    - Add providers: Anthropic Compatible or OpenAI Compatible
 - deepseek harness
   - npx @deepseek-ai/dsh web
   - http://127.0.0.1:3080
