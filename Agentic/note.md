@@ -1,0 +1,11 @@
+<!-- 1405-06-03 -->
+- openrouter.ai
+- https://9router.com
+  - npm install -g 9router
+  - 9router
+  - http://localhost:20128/dashboard
+- deepseek harness
+  - npx @deepseek-ai/dsh web
+  - http://127.0.0.1:3080
+- avalai.ir
+- 
