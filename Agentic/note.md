@@ -22,3 +22,4 @@
 - https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash
 
 - codegraph: https://github.com/colbymchenry/codegraph
+  - irm https://raw.githubusercontent.com/colbymchenry/codegraph/main/install.ps1 | iex
