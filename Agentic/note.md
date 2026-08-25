@@ -8,6 +8,7 @@
 - opencode: https://opencode.ai
 - Claude Code: https://github.com/anthropics/claude-code
   - irm https://claude.ai/install.ps1 | iex
+  - claude --version
 
 ### Routers:
 - openrouter.ai
