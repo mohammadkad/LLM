@@ -11,4 +11,4 @@
 - avalai.ir
   - https://api.avalai.ir/v1
 - https://opencode.ai
-- 
+- https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash
