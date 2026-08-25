@@ -5,6 +5,7 @@
   - 9router
   - http://localhost:20128/dashboard
     - Add providers: Anthropic Compatible or OpenAI Compatible
+    - Add Connection
 - deepseek harness
   - npx @deepseek-ai/dsh web
   - http://127.0.0.1:3080
