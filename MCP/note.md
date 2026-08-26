@@ -1,5 +1,6 @@
-# mcp
+# MCP
 ## MCP standardizes how AI models interact with tools and data
+### letting you connect to databases, APIs, file systems, and more through a standard interface.
 
 🧱 High-Level MCP Architecture Overview
 
