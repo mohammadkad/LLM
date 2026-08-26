@@ -2,6 +2,7 @@
 
 ## Definitions:
 - Agent = Model + Harness
+  - The harness is everything around the model loop: the prompt, the tools, and any middleware that shapes behavior.
 
 ## AI coding:
 ### IDE & Harness:
