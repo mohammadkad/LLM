@@ -1,4 +1,8 @@
 <!-- 1405-06-03 -->
+
+## Definitions:
+- Agent = Model + Harness
+
 ## AI coding:
 ### IDE & Harness:
 - deepseek harness
