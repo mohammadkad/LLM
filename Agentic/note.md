@@ -15,6 +15,10 @@
   - irm https://claude.ai/install.ps1 | iex
   - claude --version
 
+- Claude code:
+  - Before login > Help > Troubleshooting > Enable Developer Mode
+  - Developer > Configure Third-party inference
+
 ### Routers:
 - openrouter.ai
 - https://9router.com
