@@ -18,6 +18,7 @@
 - Claude code:
   - Before login > Help > Troubleshooting > Enable Developer Mode
   - Developer > Configure Third-party inference
+  - Confidential kind > static
 
 ### Routers:
 - openrouter.ai
