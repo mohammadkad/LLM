@@ -20,6 +20,9 @@
   - Developer > Configure Third-party inference
   - Confidential kind > static
 
+- Codex
+  - npm i -g @openai/codex
+
 ### Routers:
 - openrouter.ai
 - https://9router.com
