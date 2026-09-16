@@ -22,6 +22,7 @@
 
 - Codex
   - npm i -g @openai/codex
+  - Navigate to Your Project, Type: codex
 
 ### Routers:
 - openrouter.ai
