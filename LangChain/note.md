@@ -8,3 +8,7 @@
 - pip install -U langchain-deepseek
 - pip install -U langchain-anthropic
 - pip install -U langchain-openai
+
+### Set and Run:
+- set DEEPSEEK_API_KEY=XXX # in cmd
+- python basic.py
