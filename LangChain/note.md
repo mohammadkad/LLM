@@ -3,6 +3,7 @@
 ### Installation:
 - pip install -U langchain
 - uv add langchain # OR
+- pip install -qU langchain "langchain[anthropic]" # q: quietly
 
 ### Check Installation
 - python -c "import langchain; print(langchain.__version__)" 
