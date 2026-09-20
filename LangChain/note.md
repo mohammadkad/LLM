@@ -4,6 +4,9 @@
 - pip install -U langchain
 - uv add langchain # OR
 
+### Check Installation
+- python -c "import langchain; print(langchain.__version__)"
+
 ### Integration:
 - pip install -U langchain-deepseek
 - pip install -U langchain-anthropic
