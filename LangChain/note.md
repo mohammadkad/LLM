@@ -5,7 +5,7 @@
 - uv add langchain # OR
 
 ### Check Installation
-- python -c "import langchain; print(langchain.__version__)" # langchain.__version__
+- python -c "import langchain; print(langchain.__version__)" 
 
 ### Integration:
 - pip install -U langchain-deepseek
