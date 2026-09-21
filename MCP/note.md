@@ -15,6 +15,12 @@ Key Components:
 - Tools – Executable functions like search, calculations
 - Sampling – Agentic behavior via recursive interactions
 
+### FastMCP: The Framework for MCP
+- https://gofastmcp.com/getting-started/welcome
+- pip install fastmcp # uv add fastmcp
+- fastmcp version
+- 
+
 ## Quickstart:
 + uv init mcp-server-demo
 + cd mcp-server-demo
