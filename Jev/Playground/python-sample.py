@@ -1,6 +1,7 @@
 # 1405-06-30, Mohammad kadkhodaei
 # pip install typesafe-sdk
 # OR: uv add typesafe-sdk
+# https://docs.typesafe.ai/introduction/quickstart
 
 from typesafe_sdk import Choice, Noul, Score, TypeSafeClient
 
