@@ -44,9 +44,6 @@
 - avalai.ir
   - https://api.avalai.ir/v1
 
-### Models:
-- https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash
-
 ### Tools
 - codegraph: https://github.com/colbymchenry/codegraph
   - irm https://raw.githubusercontent.com/colbymchenry/codegraph/main/install.ps1 | iex
