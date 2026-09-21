@@ -27,6 +27,7 @@
 
 ### Routers:
 - openrouter.ai
+  - Need Credit :|
 - https://9router.com
   - npm install -g 9router
   - 9router
