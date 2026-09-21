@@ -11,6 +11,7 @@
   - http://127.0.0.1:3080
 
 - opencode: https://opencode.ai
+  - OpenCode is an open source agent that helps you write and run code with any AI model. It's available as a terminal-based interface, desktop app, or IDE extension.
 - Claude Code: https://github.com/anthropics/claude-code
   - irm https://claude.ai/install.ps1 | iex
   - claude --version
