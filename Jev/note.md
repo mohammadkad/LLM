@@ -9,3 +9,8 @@
 ### python SDK:
 - pip install typesafe-sdk
 - uv add typesafe-sdk
+
+### Tips:
+- Built on a Transformer Base: While not an LLM, Jev is built on a transformer-based architecture.
+- It retains the semantic understanding of a language model but removes the autoregressive decoding head, replacing it with a classification head .
+- You can think of it as an LLM's "brain" without its "mouth."
