@@ -13,6 +13,7 @@
 ### Tips:
 #### Jev-Omni: https://huggingface.co/akhilaaa3/Jev-Omni
 - Built on a Transformer Base: While not an LLM, Jev is built on a transformer-based architecture.
-- It retains the semantic understanding of a language model but removes the autoregressive decoding head, replacing it with a classification head .
+- It retains the semantic understanding of a language model but removes the autoregressive decoding head, replacing it with a classification head.
+- Classification, scoring, binary decisions
 - You can think of it as an LLM's "brain" without its "mouth."
 - It is built on Gemma 4 12B IT, a traditional LLM, but then fine-tuned with a classification head
