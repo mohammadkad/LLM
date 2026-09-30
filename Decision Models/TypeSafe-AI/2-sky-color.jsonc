@@ -1,0 +1,136 @@
+{
+  /*
+  * Walkthrough lesson : Choice
+  * What color is the sky? Go beyond blue
+  */
+}
+
+// State:
+{
+  "condition": "Tornado's a-comin"
+}
+
+// Question:
+{
+  "sky_color": {
+    "type": "choice",
+    "instructions": "What color is the sky?",
+    "criteria": {
+      "indigo": "",
+      "electric blue": "",
+      "baby blue": "",
+      "gray": "",
+      "lavender": "",
+      "salmon": "",
+      "seafoam green": ""
+    }
+  },
+  "sky_color_with_desc": {
+    "type": "choice",
+    "instructions": {
+      "object": "sky",
+      "question": "what color is `object`?"
+    },
+    "criteria": {
+      "indigo": {
+        "description": "very dark, deep blue, like fountain-pen ink",
+        "hex": "#280868",
+        "rgb": {
+          "red": 40,
+          "green": 8,
+          "blue": 104
+        },
+        "hsl": {
+          "hue": 260,
+          "saturation": "86%",
+          "lightness": "22%"
+        }
+      },
+      "electric blue": {
+        "description": "bright, punchy blue, like a swimming pool",
+        "hex": "#1585E7",
+        "rgb": {
+          "red": 21,
+          "green": 133,
+          "blue": 231
+        },
+        "hsl": {
+          "hue": 208,
+          "saturation": "83%",
+          "lightness": "49%"
+        }
+      },
+      "baby blue": {
+        "description": "a very pale, soft blue, like a robin's egg",
+        "hex": "#C2E4F1",
+        "rgb": {
+          "red": 194,
+          "green": 228,
+          "blue": 241
+        },
+        "hsl": {
+          "hue": 197,
+          "saturation": "63%",
+          "lightness": "85%"
+        }
+      },
+      "gray": {
+        "description": "a pale slate, like a heron's feathers",
+        "hex": "#B1CBD1",
+        "rgb": {
+          "red": 177,
+          "green": 203,
+          "blue": 209
+        },
+        "hsl": {
+          "hue": 191,
+          "saturation": "26%",
+          "lightness": "76%"
+        }
+      },
+      "lavender": {
+        "description": "a dusty blue-purple, like wisteria blossoms",
+        "hex": "#847CBF",
+        "rgb": {
+          "red": 132,
+          "green": 124,
+          "blue": 191
+        },
+        "hsl": {
+          "hue": 247,
+          "saturation": "34%",
+          "lightness": "62%"
+        }
+      },
+      "salmon": {
+        "description": "a warm, almost-orange pink, like coral",
+        "hex": "#FB7A65",
+        "rgb": {
+          "red": 251,
+          "green": 122,
+          "blue": 101
+        },
+        "hsl": {
+          "hue": 8,
+          "saturation": "95%",
+          "lightness": "69%"
+        }
+      },
+      "seafoam green": {
+        "description": "a muted, grayish green, like dried eucalyptus leaves",
+        "hex": "#94BDB5",
+        "rgb": {
+          "red": 148,
+          "green": 189,
+          "blue": 181
+        },
+        "hsl": {
+          "hue": 168,
+          "saturation": "24%",
+          "lightness": "66%"
+        }
+      }
+    }
+  }
+}
+

@@ -1,0 +1,27 @@
+
+{
+/*
+* The Noul primitive
+* In this walkthrough, TypeSafe will answer one of humanity's most persistent questions:
+* Is a hot dog a sandwich?
+*
+*/
+}
+
+// State
+{
+  "food": "Ice cream sandwich",
+  "definition": "An ice cream sandwich is a frozen dessert with a layer of ice cream between two cookies, wafers, or thin pieces of cake."
+}
+
+// Question
+{
+  "is_sandwich": {
+    "type": "noul",
+    "instructions": "Is `food` a sandwich?",
+    "criteria": {
+      "true": "A sandwich is a food dish where a filling, such as meat, cheese, vegetables, or spread, is placed between structural starch",
+      "false": "The food has no bread enclosing a filling or uses only a single slice of bread, or uses a non-bread wrapper such as a tortilla, wafer, or cookie."
+    }
+  }
+}

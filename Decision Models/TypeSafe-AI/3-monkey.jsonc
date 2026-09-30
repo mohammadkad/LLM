@@ -1,0 +1,40 @@
+{
+  /*
+  * Score
+  *
+  */
+}
+
+// State:
+{
+  "scenario": "Naruto is a Celebes crested macaque living in the Tangkoko nature reserve in North Sulawesi, Indonesia. David Slater, a wildlife photographer shooting macaques in the reserve, leaves his camera unattended, and Naruto repeatedly activates the shutter, producing hundreds of images, including a remarkably sharp, grinning self-portrait reminiscent of a human selfie. Slater later processes and publishes the best photographs in a book that names him as the copyright owner. The book states that Naruto took the photographs, with captions like, 'Surely a sign of self-awareness?' Another caption reads, 'Naruto the macaque smiles at itself while pressing the shutter button on a camera.'",
+  "subject": "Naruto",
+  "human": "Slater",
+  "creative_work": "the grinning self-portrait"
+}
+
+// Question:
+{
+  "subject_contribution": {
+    "type": "score",
+    "instructions": "How much did `subject` contribute to `creative_work`?",
+    "criteria": [
+      "None",
+      "Minorly",
+      "Moderately",
+      "Majorly",
+      "Completely"
+    ]
+  },
+  "human_contribution": {
+    "type": "score",
+    "instructions": "How much did `human` contribute to `creative_work`?",
+    "criteria": [
+      "None",
+      "Minorly",
+      "Moderately",
+      "Majorly",
+      "Completely"
+    ]
+  }
+}
